@@ -7,6 +7,6 @@
 int main(int argc, char *argv[]) {
 	char str[30] = "happy C programming";
 	
-	printf("문자열 %s의 길이: %i\n",str,strlen(str)); 
+	printf("length of %s: %i\n",str,strlen(str)); 
 	return 0;
 }
